@@ -1,7 +1,10 @@
 
 #red{
     color: rgb(218, 24, 24);
+    font-style: italic;
 }
 .blue{
-    color:rgb(192, 43, 43)
+    color:rgb(192, 43, 43);
+    font-style: italic;
+    
 }
